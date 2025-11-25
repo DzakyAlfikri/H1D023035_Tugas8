@@ -19,8 +19,9 @@ class _RegistrasiPageState extends State<RegistrasiPage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blue,
+        iconTheme: const IconThemeData(color: Colors.white),
         title: const Text(
-          "Registrasi",
+          "Registrasi Dzaky",
           style: TextStyle(color: Colors.white),
         ),
       ),

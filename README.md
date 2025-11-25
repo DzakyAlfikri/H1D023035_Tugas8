@@ -42,6 +42,7 @@
 
 ### 4. Product Form Page
 ![Product Form](produkform.png)
+![Product Form](produkform2.png)
 
 - AppBar dengan judul dinamis ("TAMBAH PRODUK" atau "UBAH PRODUK")
 - Form dengan TextFormField untuk kode, nama, dan harga produk

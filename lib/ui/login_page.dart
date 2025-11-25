@@ -19,7 +19,7 @@ class _LoginPageState extends State<LoginPage> {
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: const Text(
-          'Login',
+          'Login Dzaky',
           style: TextStyle(color: Colors.white),
         ),
       ),

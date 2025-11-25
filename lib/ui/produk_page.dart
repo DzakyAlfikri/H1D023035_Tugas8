@@ -18,7 +18,7 @@ class _ProdukPageState extends State<ProdukPage> {
         backgroundColor: Colors.blue,
         iconTheme: const IconThemeData(color: Colors.white),
         title: const Text(
-          'List Produk',
+          'List Produk Dzaky',
           style: TextStyle(color: Colors.white),
         ),
         actions: [

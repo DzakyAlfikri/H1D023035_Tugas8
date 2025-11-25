@@ -21,7 +21,7 @@ class _ProdukDetailState extends State<ProdukDetail> {
         backgroundColor: Colors.blue,
         iconTheme: const IconThemeData(color: Colors.white),
         title: const Text(
-          'Detail Produk',
+          'Detail Produk Dzaky',
           style: TextStyle(color: Colors.white),
         ),
       ),
